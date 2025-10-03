@@ -33,7 +33,7 @@ export default function Brands() {
           ))}
         </div>
 
-        <div className="mt-16 bg-gradient-to-r from-slate-900 to-slate-700 rounded-2xl p-12 text-center text-white">
+        <div className=" bg-gradient-to-r from-slate-900 to-slate-700 rounded-2xl p-12 text-center text-white">
           <h3 className="text-3xl font-bold mb-4">Official Authorized Retailer</h3>
           <p className="text-slate-200 text-lg max-w-3xl mx-auto">
             Every product in our store is sourced directly from authorized distributors, ensuring you receive genuine merchandise with full manufacturer warranties and support.
