@@ -143,7 +143,7 @@ export const storeInfo: StoreInfo = {
   store_name: 'Akbari Shoe Shop',
   address: 'Near Kevelram Petrol Pump Chowraha, Bombay Bazar, Khandwa HO-450001',
   phone: '07947125836',
-  email: 'info@solehaven.com',
+  email: 'info@akbarishoeshop.com',
   hours: {
     'Monday - Friday': '9:00 AM - 9:00 PM',
     'Saturday': '10:00 AM - 9:00 PM',
