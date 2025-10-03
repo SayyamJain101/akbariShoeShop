@@ -7,7 +7,7 @@ export default function About() {
       <div className="container mx-auto px-4">
         <div className="grid lg:grid-cols-2 gap-16 items-center mb-20">
           <div className="space-y-6">
-            <div className="inline-flex items-center gap-2 bg-emerald-50 text-emerald-700 px-4 py-2 rounded-full text-sm font-medium">
+            <div className="inline-flex items-center gap-2 bg-zinc-500 text-emerald-700 px-4 py-2 rounded-full text-sm font-medium">
               <Heart size={16} />
               <span>About Us</span>
             </div>
