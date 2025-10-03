@@ -141,7 +141,7 @@ export const products: Product[] = [
 export const storeInfo: StoreInfo = {
   id: '1',
   store_name: 'Akbari Shoe Shop',
-  address: 'Near Kevelram Petrol Pump Chowraha, Bombay Bazar, Khandwa HO-450001',
+  address: 'Bombay Bazaar, Bombay Bazaar-450001',
   phone: '07947125836',
   email: 'info@solehaven.com',
   hours: {
